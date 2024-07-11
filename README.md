@@ -34,3 +34,6 @@ L'application a été développée à partir du jeu de données public (https://
     ```bash
     streamlit run app/main.py
     ```
+## Interface
+
+![l'interface](data/Capture%20d’écran%20du%202024-07-11%2019-15-08.png)
