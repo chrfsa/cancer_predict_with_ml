@@ -1,4 +1,4 @@
-# Prédicteur de Diagnostic du Cancer du Sein
+# Prédicteur de Diagnostic du Cancer
 
 ## Aperçu
 
